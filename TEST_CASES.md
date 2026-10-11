@@ -1,13 +1,3 @@
-
-Save with `Ctrl+S`.
-
----
-
-## STEP 3: Copy the TEST_CASES Content
-
-Open `TEST_CASES.md` in VS Code and paste this:
-
-```markdown
 # Test Cases and Results
 
 **Project:** Nyaya Logic as an Inference Engine
